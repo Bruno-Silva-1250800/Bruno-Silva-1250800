@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Top Langs](https://github-readme-stats-forked-pi.vercel.app/api/top-langs/?username=Bruno-Silva-1250800&count_private=true)
+![Top Langs](https://github-readme-stats-forked-pi.vercel.app/api/top-langs/?username=Bruno-Silva-1250800&count_private=true&langs_count=10)
 <!--
 **Bruno-Silva-1250800/Bruno-Silva-1250800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
