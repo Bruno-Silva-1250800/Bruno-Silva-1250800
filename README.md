@@ -2,7 +2,7 @@
 
 #### Currently Studying Computer Science and Enginnering at Instituto Superior de Engenharia do Porto (ISEP)!
 
-![Top Langs](https://github-readme-stats-forked-pi.vercel.app/api/top-langs/?username=Bruno-Silva-1250800&count_private=true&langs_count=9&layout=compact&theme=radical&border_radius=5)
+![Top Langs](https://github-readme-stats-forked-pi.vercel.app/api/top-langs/?username=Bruno-Silva-1250800&count_private=true&langs_count=8&layout=compact&theme=radical&border_radius=5)
 <!--
 **Bruno-Silva-1250800/Bruno-Silva-1250800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
